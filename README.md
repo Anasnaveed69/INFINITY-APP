@@ -2,21 +2,39 @@ Social Network Application (INFINITY-APP)  With GUI
 <br>
 Table of Contents
 <br>
+<br>
+<br>
 1.Project Overview
+<br>
+<br>
 <br>
 2.Features
 <br>
+<br>
+<br>
 3.Phases of Development
+<br>
+<br>
 <br>
 4.Execution Flow
 <br>
+<br>
+<br>
 5.Folder Structure
+<br>
+<br>
 <br>
 6.Setup Instructions
 <br>
+<br>
+<br>
 7.Usage
 <br>
+<br>
+<br>
 8.Contributing
+<br>
+<br>
 <br>
 1.Project Overview
 <br>
