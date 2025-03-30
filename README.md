@@ -2,8 +2,7 @@ Social Network Application (INFINITY-APP)  With GUI
 <br>
 Table of Contents
 <br>
-<br>
-<br>
+
 1.Project Overview
 <br>
 <br>
